@@ -18,8 +18,8 @@
 > Links
 
 - [Flask Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) - product page
-- [Flask Atlantis PRO - Demo](https://flask-atlantis-dark-pro.appseed-srv1.com/) - LIVE Deployment
-- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
+- [Flask Atlantis Dark PRO](https://flask-atlantis-dark-pro.appseed-srv1.com/) - LIVE deployment
+- [Flask Atlantis Dark PRO](https://docs.appseed.us/products/flask-dashboards/atlantis-dark-pro) - product documentation
 
 <br />
 
