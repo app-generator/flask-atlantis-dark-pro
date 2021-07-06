@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.4] 2021-07-06
+### Improvements
+
+- Highlight the current page in side menu correctly  
+
 ## [1.0.3] 2021-05-16
 ### Dependencies Update
 
