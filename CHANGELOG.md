@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.5] 2021-07-08
+### Tooling
+
+- Added scripts to recompile the SCSS files
+    - `app/base/static/assets/` - gulpfile.js
+    - `app/base/static/assets/` - package.json
+
 ## [1.0.4] 2021-07-06
 ### Improvements
 
