@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.8] 2022-09-23
+### Improvements
+
+- Bump Codebase version
+
 ## [1.0.7] 2022-04-01
 ### Fixes
 
