@@ -18,9 +18,7 @@ Admin Dashboard crafted by AppSeed in **[Flask](https://appseed.us/admin-dashboa
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 - Support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
-<br />
-
-![Flask Atlantis Dark PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-atlantis-dark-pro/master/media/flask-dashboard-atlantis-dark-pro-screen.png)
+![Flask Atlantis Dark PRO](https://github.com/app-generator/flask-atlantis-dark-pro/assets/51070104/5da24b98-0872-4504-aca0-e84751a16453)
 
 <br />
 
